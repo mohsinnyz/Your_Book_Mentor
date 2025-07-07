@@ -31,7 +31,7 @@ Your-Book-Mentor/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/Your-Book-Mentor.git
+git clone https://github.com/mohsinnyz/Your-Book-Mentor.git
 cd Your-Book-Mentor
 ```
 
